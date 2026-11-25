@@ -43,3 +43,7 @@ The mission notes document the concepts and practical activities. Personal obser
 ## Project Organisation
 
 Each mission has a separate folder and README file. Mission work is organised in separate commits; review and push subsequent corrections.
+
+## My Learning
+
+I learned how the operating system manages files and processes, how Python represents numbers in binary and hexadecimal, and how Git records changes for collaboration.
