@@ -39,7 +39,7 @@ Terminal and macOS networking utilities.
 | Packet switching | Sends data in individually routed packets | Internet traffic |
 | Client-server | A client requests a service from a server | Browser and web server |
 
-A connectivity test such as `ping` checks whether a target responds, although a blocked ping does not prove the site is down. `nslookup` displays DNS answers, such as addresses for a domain. DNS helps a browser find an address for a website name. Record your own privacy-safe results for a public example domain: **[observation needed]**.
+A connectivity test such as `ping` checks whether a target responds, although a blocked ping does not prove the site is down. `nslookup` displays DNS answers, such as addresses for a domain. DNS helps a browser find an address for a website name. A DNS lookup of `example.com` returned public addresses. An HTTPS HEAD request to the same domain returned HTTP 200, showing that the server responded. Network addresses can change.
 
 ## Opening a website
 
@@ -50,4 +50,4 @@ A connectivity test such as `ping` checks whether a target responds, although a 
 5. The browser sends a request using the HTTP protocol.
 6. The server responds with content and the browser displays it.
 
-Mission commit: `[original history]`. Record your own difficulties and resolutions and verify the latest push.
+The sandbox blocked the initial DNS lookup; an approved network-enabled retry succeeded. The reconstructed mission commit is `2ba7adc` (Document mission 07). Evidence: the privacy-safe observations above.

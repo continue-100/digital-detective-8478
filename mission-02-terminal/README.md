@@ -49,7 +49,7 @@ I followed the commands step by step and checked the output after each operation
 
 ## 8. Commit details
 
-The reconstructed mission commit is local; verify it after pushing.
+The reconstructed mission commit is `f87b14c` (Document mission 02).
 
 
 ## Additional file-operation notes
@@ -60,4 +60,4 @@ The reconstructed mission commit is local; verify it after pushing.
 - `ls -lah` adds details, hidden entries and human-readable sizes to a normal `ls` listing. In `ls -lah | head`, the pipe passes the listing to `head`, which selects the first lines.
 - Package managers simplify installing, updating and removing software and can track dependencies.
 
-The mission commit is `[original history]`. Verify that your latest changes are pushed after making corrections.
+The practice files contain two lines and a renamed backup.

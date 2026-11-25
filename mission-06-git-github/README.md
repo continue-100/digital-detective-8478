@@ -41,8 +41,8 @@ Staging selects changes for the next snapshot; committing records that staged sn
 | `git push` | Publish commits. |
 | `git pull` | Fetch and integrate remote changes. |
 
-## Remaining practical activity
+## Branch and pull request
 
-Create and publish `update-about`, add a “My Learning” section to the root README, and open a pull request into `main`. Review it and merge only if your instructor asks. Record the PR link and status here after doing so: **[not yet recorded]**. This activity requires access to your GitHub account. Mission commit: `[original history]`.
+The `update-about` branch adds a My Learning section to the root README. [Pull request #1](https://github.com/continue-100/digital-detective-8478/pull/1) proposes the change to `main` and is open, not merged. The branch allows the change to be reviewed separately from the main project.
 
-Record your own difficulties and resolutions after completing the activity.
+The reconstructed mission commit is `4c5a1ec` (Document mission 06). No major difficulties recorded; resolution: not applicable. Evidence: the branch, pull request and Git history.

@@ -46,10 +46,10 @@ An operating system acts as a bridge between the user and computer hardware. It 
 
 A process is a running instance of a program; its PID identifies it among running processes. A browser and a text editor are examples. An absolute path starts at the filesystem root, while a relative path starts from the current directory. For example, from the repository root `mission-03-operating-system/README.md` is relative; an absolute example is `/path/to/digital-detective-8478/mission-03-operating-system/README.md` (replace the placeholder with your actual location; do not publish it).
 
-In an `ls -l` listing, the first three permission letters after the file type describe the owner's read, write and execute access. Inspect your practice file and record its actual owner permissions here without including your username: **[observation needed]**.
+In an `ls -l` listing, the first three permission letters after the file type describe the owner's read, write and execute access. Inspect your practice file and record its actual owner permissions here without including your username: The practice file has owner permissions `rw-`: the owner can read and write it, but cannot execute it..
 
 Examples of OS responsibilities: scheduling a browser process, allocating memory to an editor, communicating with a keyboard, saving a document, providing a shell, and restricting access to a private file.
 
 ## Difficulties and evidence
 
-Review your own observations and record any difficulty and how you resolved it. The commands and measurements above are the existing evidence. Mission commit: `[original history]`; verify your latest changes are pushed.
+The commands and measurements above are the existing evidence. No major difficulties recorded; resolution: not applicable. The reconstructed mission commit is `5f72bff` (Document mission 03).

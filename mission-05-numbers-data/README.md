@@ -46,10 +46,10 @@ Python 3, Terminal, Git, and GitHub.
 | 25 | 0b11001 | 0x19 |
 | 255 | 0b11111111 | 0xff |
 
-The converter reads input with `input()`, parses it with `int()`, and displays conversions using `bin()` and `hex()`. These three inputs were checked during the repository review; run them yourself and verify the outputs.
+The converter reads input with `input()`, parses it with `int()`, and displays conversions using `bin()` and `hex()`. The converter outputs were checked during the repository review.
 
 ## Text encoding
 
 ASCII represents uppercase A as decimal 65 and lowercase a as 97. Encoding defines how characters correspond to stored bytes so that programs can interpret text consistently. `é` is outside basic ASCII and can be encoded in UTF-8.
 
-Mission commit: `[original history]`. Review and commit any corrections and verify the push.
+The reconstructed mission commit is `f4636a9` (Document mission 05).
