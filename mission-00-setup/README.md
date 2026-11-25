@@ -44,10 +44,10 @@ I cancelled the incomplete command and used a corrected single-line command to c
 
 ## 8. Commit details
 
-The initial setup commit is visible in the repository history.
+This repository was reconstructed with new local commits; push and verify them on GitHub.
 
 
-Commit hash: 6d9a148
+Commit hash: [original history]
 Commit message: Initial commit: Mission 0 setup
 Branch: main
 Repository: https://github.com/continue-100/digital-detective-8478

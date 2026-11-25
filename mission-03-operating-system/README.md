@@ -52,4 +52,4 @@ Examples of OS responsibilities: scheduling a browser process, allocating memory
 
 ## Difficulties and evidence
 
-Review your own observations and record any difficulty and how you resolved it. The commands and measurements above are the existing evidence. Mission commit: `def932d`; verify your latest changes are pushed.
+Review your own observations and record any difficulty and how you resolved it. The commands and measurements above are the existing evidence. Mission commit: `[original history]`; verify your latest changes are pushed.

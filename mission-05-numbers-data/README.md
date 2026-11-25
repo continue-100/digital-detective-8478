@@ -52,4 +52,4 @@ The converter reads input with `input()`, parses it with `int()`, and displays c
 
 ASCII represents uppercase A as decimal 65 and lowercase a as 97. Encoding defines how characters correspond to stored bytes so that programs can interpret text consistently. `é` is outside basic ASCII and can be encoded in UTF-8.
 
-Mission commit: `065ce36`. Review and commit any corrections and verify the push.
+Mission commit: `[original history]`. Review and commit any corrections and verify the push.

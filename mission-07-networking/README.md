@@ -50,4 +50,4 @@ A connectivity test such as `ping` checks whether a target responds, although a 
 5. The browser sends a request using the HTTP protocol.
 6. The server responds with content and the browser displays it.
 
-Mission commit: `f68e926`. Record your own difficulties and resolutions and verify the latest push.
+Mission commit: `[original history]`. Record your own difficulties and resolutions and verify the latest push.

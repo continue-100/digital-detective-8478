@@ -49,7 +49,7 @@ I followed the commands step by step and checked the output after each operation
 
 ## 8. Commit details
 
-To be updated after committing and pushing the mission.
+The reconstructed mission commit is local; verify it after pushing.
 
 
 ## Additional file-operation notes
@@ -60,4 +60,4 @@ To be updated after committing and pushing the mission.
 - `ls -lah` adds details, hidden entries and human-readable sizes to a normal `ls` listing. In `ls -lah | head`, the pipe passes the listing to `head`, which selects the first lines.
 - Package managers simplify installing, updating and removing software and can track dependencies.
 
-The mission commit is `dc4e514`. Verify that your latest changes are pushed after making corrections.
+The mission commit is `[original history]`. Verify that your latest changes are pushed after making corrections.

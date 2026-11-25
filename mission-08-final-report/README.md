@@ -33,4 +33,4 @@ This project improved my understanding of computer systems and gave me practical
 
 ## Review status
 
-The repository contains the mission folders and Python files. The converter and hello program were checked in a repository review. Mission 6 still needs a branch and pull request, and Missions 3 and 7 need personal observations. Review every README for your own tools, difficulties and evidence, check privacy (including Git commit metadata), then commit and push your changes. Submission through the instructor's form remains to be confirmed. Mission commit: `851e6bc`.
+The repository contains the mission folders and Python files. The converter and hello program were checked in a repository review. Mission 6 still needs a branch and pull request, and Missions 3 and 7 need personal observations. Review every README for your own tools, difficulties and evidence, check privacy (including Git commit metadata), then commit and push your changes. Submission through the instructor's form remains to be confirmed. Mission commit: `[original history]`.

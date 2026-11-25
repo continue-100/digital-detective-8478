@@ -43,6 +43,6 @@ Staging selects changes for the next snapshot; committing records that staged sn
 
 ## Remaining practical activity
 
-Create and publish `update-about`, add a “My Learning” section to the root README, and open a pull request into `main`. Review it and merge only if your instructor asks. Record the PR link and status here after doing so: **[not yet recorded]**. This activity requires access to your GitHub account. Mission commit: `9c628ae`.
+Create and publish `update-about`, add a “My Learning” section to the root README, and open a pull request into `main`. Review it and merge only if your instructor asks. Record the PR link and status here after doing so: **[not yet recorded]**. This activity requires access to your GitHub account. Mission commit: `[original history]`.
 
 Record your own difficulties and resolutions after completing the activity.
