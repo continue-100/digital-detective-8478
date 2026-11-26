@@ -42,4 +42,8 @@ The mission notes document the concepts and practical activities. A learning upd
 
 ## Project Organisation
 
-Each mission has a separate folder and README file. Mission work is organised in separate commits, followed by review corrections.
+Each mission has a separate folder and README file. Mission work is organised in separate commits; review and push subsequent corrections.
+
+## My Learning
+
+I learned how the operating system manages files and processes, how Python represents numbers in binary and hexadecimal, and how Git records changes for collaboration.
