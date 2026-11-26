@@ -8,15 +8,15 @@ The objective was to create a GitHub project workspace and organise all assignme
 ## 2. Work completed
 
 - Created the project folder named digital-detective-8478.
-- Created all nine mission folders and the evidence folder.
+- Created all nine mission folders.
 - Created the required README files.
 - Created hello.py and number_converter.py.
 - Prepared the main README.md.
 
 ## 3. Commands / tools used
 
-- python3 --version – Checked the installed Python version (3.14.7).
-- git --version – Checked the installed Git version (2.55.0).
+- python3 --version – Current check: Python 3.9.6.
+- git --version – Current check: Git 2.54.0 (Apple Git-157).
 - cd – Changed the current directory.
 - mkdir -p – Created the mission folders.
 - touch – Created empty files.
@@ -44,10 +44,10 @@ I cancelled the incomplete command and used a corrected single-line command to c
 
 ## 8. Commit details
 
-This repository was reconstructed with new local commits; push and verify them on GitHub.
+The mission has a reconstructed commit, `81c52e7` (Set up Digital Detective workspace), visible in the local history.
 
 
-Commit hash: [original history]
-Commit message: Initial commit: Mission 0 setup
+Commit hash: 81c52e7
+Commit message: Set up Digital Detective workspace
 Branch: main
 Repository: https://github.com/continue-100/digital-detective-8478

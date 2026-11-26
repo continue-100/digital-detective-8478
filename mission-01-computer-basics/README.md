@@ -63,4 +63,4 @@ Computer-based systems are used in everyday life to make tasks easier and faster
 
 ## Mission record
 
-The tasks were to trace an IPOS activity, classify hardware and software, and identify everyday computer systems. The tables above are the evidence. Review and record the tools you actually used and any difficulties and resolutions. Relevant mission commits: `[original history]`, `[original history]`, `[original history]`.
+The tasks were to trace an IPOS activity, classify hardware and software, and identify everyday computer systems. The tables above are the evidence. Tools: a text editor was used to document the tables. Difficulties: no major difficulties recorded; resolution: not applicable. The reconstructed mission commit is `e245408` (Document mission 01).

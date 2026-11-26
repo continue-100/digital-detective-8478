@@ -38,7 +38,7 @@ Run the following command from the project root folder:
 
 This project explores computer fundamentals, operating systems, programming, number systems, GitHub and networking.
 
-The mission notes document the concepts and practical activities. Personal observations and the GitHub branch and pull request still need verification.
+The mission notes document the concepts and practical activities. A learning update is available for review in the `update-about` branch.
 
 ## Project Organisation
 
